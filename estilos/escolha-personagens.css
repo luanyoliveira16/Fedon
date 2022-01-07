@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
     opacity: 2;
+    overflow-x: hidden;
 }
 
 .personagens {
@@ -30,6 +31,7 @@ body {
     margin-top: 200px;
     align-items: center;
     justify-content: space-between;
+    
 }
 
 h2{
