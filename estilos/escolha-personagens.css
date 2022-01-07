@@ -1,0 +1,53 @@
+body {
+    background-image: url(../imagens/fundo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 2;
+}
+
+.personagens {
+    width: 300px;
+    height: 450px;
+    border: #F22816 dotted 5px;
+    background-color: #ffffff;
+    opacity: 0.8;
+}
+
+.personagens:hover {
+    width: 330px;
+}
+
+.nomes {
+    font-family: ROMAN SD;
+    font-size: 30px;
+    text-align: center;
+    background-color: #F22816;
+}
+
+.container {
+    height: 500px;
+    display: flex;
+    margin-top: 200px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h2{
+    text-align: center;
+    font-family: ROMAN SD;
+    font-size: 80px;
+}
+
+button {
+    color: #F2A71B;
+    background-color: #F22816;
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    font-family: ROMAN SD;
+    
+}
+
+button:hover {
+    width: 300px;
+}

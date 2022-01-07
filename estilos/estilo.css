@@ -1,0 +1,64 @@
+body {
+    background-image: url(../imagens/guerra.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: black;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+}
+
+#titulo {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#introduçao {
+    font-family: ROMAN SD; 
+    font-size: 40px;
+    text-align: center;    
+}
+
+p {
+    font-family: Agency FB;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+#container {
+    border: #F22816 dotted 8px ;
+    margin-top: 50px;
+    display:flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    background-color: #F22816;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #F2A71B;
+    font-size: 20px;
+    font-family: ROMAN SD;
+    margin-left: 850px;
+}
+
+#rodape {
+    background-color: black;
+    color: #F2A71B;
+    height: 20px;
+    text-align: center;
+    margin-top: 150px;
+    font-family: ROMAN SD;
+    font-size: 15px;
+    padding-top: 10px;
+}

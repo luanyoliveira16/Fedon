@@ -1,0 +1,55 @@
+body {
+    background-image: url(../imagens/fundo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h3 {
+    font-family: ROMAN SD;
+    text-align: center;
+    font-size: 40px;
+}
+
+.container {
+    border: #F22816 dotted 8px ;
+    margin-top: 50px;
+    display:flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    opacity: 0.8;
+    margin-top: 300px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4{
+    text-align: center;
+    font-family: Agency FB;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+p {
+    text-align: center;
+    font-family: Agency FB;
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+button {
+    width: 150px;
+    height:40px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F22816;
+    color: #F2A71B;
+    font-size: 20px;
+    font-family: ROMAN SD;
+}
+
+a {
+    margin-left: auto;
+    margin-right: auto;
+}
