@@ -4,6 +4,7 @@ body {
     background-size: 100%;
     opacity: 2;
     overflow-x: hidden;
+    width: 100%vw;
 }
 
 .personagens {
@@ -12,6 +13,7 @@ body {
     border: #F22816 dotted 5px;
     background-color: #ffffff;
     opacity: 0.8;
+    
 }
 
 .personagens:hover {
