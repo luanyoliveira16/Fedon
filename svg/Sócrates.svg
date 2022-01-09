@@ -3,14 +3,14 @@
     <style>
 
     #olhos {
-      animation: girar-olhos 0.9s ease-in-out
+      animation: girar-olhos 0.6s ease-in-out
       infinite alternate;
-    }
+      }
 
 
-      @keyframes girar-olhos {
+     @keyframes girar-olhos {
         to {
-          transform: translate(6px, -4px)
+          transform: translate(4px, -3px)
         }
       }
 
