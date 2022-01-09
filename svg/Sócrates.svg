@@ -12,8 +12,7 @@
         to {
           transform: translate(4px, -3px)
         }
-      }
-
+     }
 
       .cls-1, .cls-2 {
         fill: #fbcfac;
