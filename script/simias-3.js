@@ -15,7 +15,7 @@ function responder() {
              resposta = prompt (`Responda da seguinte maneira:
               0 - SIM
               1 - NÃO`)
-              break;
+              
       }
     }
 
