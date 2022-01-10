@@ -5,13 +5,15 @@ function responder() {
         if(resposta == 0){
           window.location.href="aporiasimias.html"
           break;
+
         } else if (resposta == 1) {
           window.location.href="simias-2.html"
           break;
+
         } else {
           alert("Escolha 0 ou 1") 
           resposta = prompt("Responda da seguinte maneira: \n\n 0 - TEORIA DA AFINIDADE \n 1 - ALMA-HARMONIA")
           
-     }
     }
+  }
 }
