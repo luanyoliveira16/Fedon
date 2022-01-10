@@ -13,8 +13,8 @@ function responder() {
       } else {
              alert("Escolha 0 ou 1")
              prompt (`Responda da seguinte maneira:
-      0 - SIM
-      1 - NÃO`)
+              0 - SIM
+              1 - NÃO`)
       }
     }
 

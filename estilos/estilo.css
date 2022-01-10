@@ -49,7 +49,12 @@ button {
     color: #F2A71B;
     font-size: 20px;
     font-family: ROMAN SD;
-    margin-left: 850px;
+    
+}
+
+a{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #rodape {

@@ -3,10 +3,10 @@
 
         while (true) {
             if (resposta == 0) {
-                window.location.href = "aporia.html"
+                window.location.href ="socrates-5.html"
                 break;
             } else if (resposta == 1) {
-                window.location.href ="socrates-3.html"
+                window.location.href ="aporia-3.html"
                 break;
             } else {
                 alert ("Escolha 0 ou 1") ;
