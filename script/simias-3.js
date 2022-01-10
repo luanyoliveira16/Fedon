@@ -12,7 +12,7 @@ function responder() {
              break;
       } else {
              alert("Escolha 0 ou 1")
-             prompt (`Responda da seguinte maneira:
+             resposta = prompt (`Responda da seguinte maneira:
               0 - SIM
               1 - NÃO`)
               break;
