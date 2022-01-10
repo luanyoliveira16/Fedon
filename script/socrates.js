@@ -15,7 +15,8 @@ function responder()
        alert ("Escolha 0 ou 1");
        resposta = prompt (
          "Responda da seguinte maneira \n 0 - SIM \n 1 - NÃO"
-      );
+      )
+      break;
     }
   }
 }
