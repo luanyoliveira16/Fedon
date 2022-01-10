@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 338.91 757.85">
   <defs>
     <style>
-
-
+    
     #sobrancelhas {
       animation: levantar-sobrancelhas 0.9s ease-in-out
       infinite alternate;

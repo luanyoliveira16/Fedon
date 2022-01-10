@@ -3,10 +3,10 @@ function responder() {
 
     while (true) {
         if (resposta == 0) {
-            window.location.href = "aporiacebes-3.html";
+            window.location.href = "cebes-5.html";
             break;
      }  else if (resposta == 1) {
-             window.location.href = "cebes-5.html";
+             window.location.href = "aporiacebes-3.html";
              break;
      }  else {
             alert("Escolha 0 ou 1")

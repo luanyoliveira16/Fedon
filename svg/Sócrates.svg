@@ -2,13 +2,13 @@
   <defs>
     <style>
 
-    #olhos {
-      animation: girar-olhos 0.6s ease-in-out
+      #olhos {
+      animation: girar-olhos 0.9s ease-in-out
       infinite alternate;
       }
 
 
-     @keyframes girar-olhos {
+      @keyframes girar-olhos {
         to {
           transform: translate(4px, -3px)
         }
