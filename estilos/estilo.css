@@ -1,7 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
 body {
     background-image: url(../imagens/guerra.png);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-color: black;
 }
 
@@ -60,7 +64,7 @@ a{
 #rodape {
     background-color: black;
     color: #F2A71B;
-    height: 20px;
+    height: 40px;
     text-align: center;
     margin-top: 150px;
     font-family: ROMAN SD;

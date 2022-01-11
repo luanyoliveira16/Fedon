@@ -1,10 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
 body {
     background-image: url(../imagens/fundo.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     opacity: 2;
     overflow-x: hidden;
-    width: 100%vw;
+    
 }
 
 .personagens {
@@ -54,4 +57,19 @@ button {
 
 button:hover {
     width: 300px;
+}
+
+@media (max-width: 900px) {
+
+   header{
+     display: flex;
+     flex-direction: column;
+
+   }
+
+  .container {
+     display: flex;
+     flex-direction: column;
+  }
+ 
 }
